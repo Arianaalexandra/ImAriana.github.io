@@ -1,0 +1,136 @@
+div {
+    box-sizing: border-box;
+}
+
+#main {
+    width: 80%;
+    padding: 5px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0px 10px 10px rgb(213, 219, 218);
+}
+
+#casuta1, #casuta2, #casuta3, #casuta4, #casuta5, #casuta6, #casuta7, #casuta8, #casuta9 {
+    border: 1px solid black;
+    width: 24%;
+    padding: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(135, 129, 128, 0.3);
+}
+
+#casuta1:hover {
+    background-color: #559c4c;
+}
+
+#casuta2:hover {
+    background-color: #559c4c;
+}
+
+#casuta3:hover {
+    background-color: #559c4c;
+}
+
+#casuta4:hover {
+    background-color: #559c4c;
+}
+
+#casuta5:hover {
+    background-color: #559c4c;
+}
+
+#casuta6:hover {
+    background-color: #559c4c;
+}
+
+#casuta7:hover {
+    background-color: #559c4c;
+}
+
+#casuta8:hover {
+    background-color: #559c4c;
+}
+
+#casuta9:hover {
+    background-color: #559c4c;
+}
+
+#casuta2, #casuta3, #casuta4 {
+    float: right;
+    margin-top: -64px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#casuta6, #casuta7, #casuta8 {
+    float: right;
+    margin-top: -64px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+a[href^='#'] {
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+a[href^='#']:hover {
+    color: white;
+}
+
+hr {
+    border: 1px solid #ebebeb;
+    width: 90%;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    float: left;
+    font-family: 'Roboto Slab', serif;
+    font-size: 22px;
+}
+
+body {
+    background-color: rgba(235, 240, 239, 0.4);
+}
+
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+
+.greenimg {
+    width: 25%;
+    float: left;
+    margin: 5px 10px 10px 5px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+
+}
+
+span {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ol {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
